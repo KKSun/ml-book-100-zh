@@ -42,4 +42,4 @@
 
 ## 英文原版
 
-原书支持先看后买模式，英文原版地址([dropbox网盘版](http://themlbook.com/wiki/doku.php))
+英文原书支持先看后买模式 ([原版地址](http://themlbook.com/wiki/doku.php))
