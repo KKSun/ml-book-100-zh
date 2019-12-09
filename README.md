@@ -39,3 +39,7 @@
 ## 赞助我们
 
 ![](https://www.apachecn.org/img/about/donate.jpg)
+
+## 英文原版
+
+原书支持先看后买模式，英文原版地址([dropbox网盘版](http://themlbook.com/wiki/doku.php))
